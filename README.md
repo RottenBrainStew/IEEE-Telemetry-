@@ -1,1 +1,3 @@
 # IEEE-Telemetry-
+
+This is a repository for all Python scripts that have to do with using Python's Plotly Dash library to make a graphical representation as part of a project for IEEE's GRSS. The project is to a launch a high-altitude balloon in the air, have data get transmitted via the data transmission team, who will then send data related to altitude, latitude, longitude, etc. to the Telemetry UI team. That data will then get displayed via Python's Plotly Dash library. The files written in this repository are all tutorials found on the official Plotly Dash website for better understanding of what Plotly Dash can do. 
